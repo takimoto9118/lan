@@ -95,6 +95,7 @@ header {
 
 .header-left p {
  color: white;
+ padding: 0 25px;
 }
 
 .header-right {
