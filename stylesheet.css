@@ -98,7 +98,8 @@ header {
   padding: 0 25px;
   color: white;
   display: block;
-  float: left;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             e;
+  float: left;  
+  font-size: 20px;
 }
 
 .header-right {
