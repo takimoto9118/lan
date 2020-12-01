@@ -96,7 +96,7 @@ header {
 .header-left h1 {
  color: white;
  transition: all 0.7s;
- padding: 0 25px;
+ padding:  25px;
 }
 
 .header-right {
