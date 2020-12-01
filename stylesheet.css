@@ -107,7 +107,7 @@ header {
   transition: all 0.5s;
 }
 
-.header-right h1 {
+.header-left h1 {
   color: white;
 }
 .header-right a:hover {
