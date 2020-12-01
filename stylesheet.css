@@ -93,9 +93,8 @@ header {
   float: left;
 }
 
-.header-left h1 {
+.header-left p {
  color: white;
- transition: all 0.7s;
 }
 
 .header-right {
